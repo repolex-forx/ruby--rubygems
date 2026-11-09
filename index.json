@@ -1,0 +1,11 @@
+{
+  "org": "ruby",
+  "repo": "rubygems",
+  "versions": [
+    {
+      "commit": "7f323abe7c9ce5077cd66c0b69cdf1b65baf866b",
+      "tag": "",
+      "parsed_at": "2026-11-09T21:11:24.047370+00:00"
+    }
+  ]
+}
